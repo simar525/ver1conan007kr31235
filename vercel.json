@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://conan007.co.kr/$1"
+ }
+  ]
+}
